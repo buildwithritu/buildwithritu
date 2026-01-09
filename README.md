@@ -1,15 +1,15 @@
-# 💫 Hi 👋, I'm Anish Raj
+# 💫 Hi 👋, I'm Ritu
 **Full Stack Developer 🧑‍💻 || Hackathon Winner 🏆 || Android Developer || Web Developer || Software Developer || TypeScript || Next.js || DSA || C++ || Java || JavaScript || React || MongoDB || Express || Node.js ||**
 
-Email Me 👉 ✉️ **anishkumar9905287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ritu.ise25cmrit.ac.in** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** self
 - 🌱 **I’m currently learning:** AI/ML, Kubernetes
 - 👯 **I’m looking to collaborate on:** SRPS AI HYBRDE SCHOOL
 - 🤔 **I’m looking for help with:** ___________
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** anishkumar9905287@gmail.com
-- 😄 **Pronouns:** Anish Sir
+- 📫 **How to reach me:**ritu.ise25cmrit.ac.in**
+- 😄 **Pronouns:** Ritu
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=buildwithanish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
